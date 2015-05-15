@@ -14,10 +14,14 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.2.0",
     "jquery": "~2.1.1",
     "requirejs": "~2.1.15",
-    "react": "~0.11.1",
-    "font-awesome": "~4.2.0"
+    "font-awesome": "~4.2.0",
+    "materialize": "~0.96.1",
+    "reflux": "~0.2.7",
+    "react": "~0.13.3",
+    "leaflet": "~0.7.3",
+    "d3": "~3.5.5",
+    "classnames": "~2.1.1"
   }
 }
